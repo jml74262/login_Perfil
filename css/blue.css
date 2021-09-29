@@ -1,0 +1,15 @@
+body{
+    background: url("../img/blue.jpg");
+    background-attachment: fixed;
+}
+#logo{
+    background: #15178b;
+
+}
+#menu ul li:hover{
+    background: #15178B;
+}
+.button-more{
+    background: #15178b;
+
+}
